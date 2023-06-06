@@ -1,0 +1,26 @@
+
+  body {
+    background-color: #000;
+    font-family: 'San Francisco', Arial, sans-serif;
+  }
+  
+  h1{
+    text-align: center;
+    padding-top: 210px;
+    font-size: 100px;
+    background: #8FE9FF;
+    background: linear-gradient(to right, #CCEFFF 0%, #60CAFC 50%, #2F65FF 100%);
+    font-family:Helvetica,Arial,sans-serif;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    }
+
+p{
+    font-size: 20px;
+    text-align: center;
+    background: linear-gradient(to right, #CCEFFF 0%, #60CAFC 50%, #2F65FF 100%);
+    font-family:Helvetica,Arial,sans-serif;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    }
+
